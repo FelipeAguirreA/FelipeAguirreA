@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- HERO (más bajo para reducir blanco) -->
+<!-- HERO -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=155&text=Hola,%20soy%20Felipe%20Aguirre&fontAlign=50&fontAlignY=30&desc=Desarrollo%20de%20Software%20en%20formaci%C3%B3n%20%7C%20Front-end%20%2B%20Back-end&descAlign=50&descAlignY=62&animation=fadeIn&color=0:FF2BD6,50:00D9F5,100:00F5A0"
 />
 
-<!-- SUBHERO (centrado real) -->
+<!-- SUBHERO -->
 <table align="center" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
     <td style="border:none; padding:0;" valign="middle">
@@ -45,7 +45,7 @@ Actualmente desarrollando aplicaciones, front-end, back-end y APIs como parte de
 
 <br/><br/>
 
-<!-- STACK (uniforme y compacto) -->
+<!-- STACK -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
@@ -71,7 +71,7 @@ Actualmente desarrollando aplicaciones, front-end, back-end y APIs como parte de
 />
 
 
-<!-- PROYECTOS (SIN TABLE: centrado real y no se rompe) -->
+<!-- PROYECTOS -->
 <div align="center">
   <!-- FILA 1 -->
   <a href="https://github.com/FelipeAguirreA/portafolio">
@@ -129,21 +129,26 @@ Actualmente desarrollando aplicaciones, front-end, back-end y APIs como parte de
 
 <!-- ICONOS + ZORRO EN LA MISMA LÍNEA (INLINE) -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/felipe-aguirre-aravena" target="_blank">
   <img
     src="https://img.icons8.com/doodle/42/000000/linkedin--v2.png"
     alt="LinkedIn"
     width="55"
   />
+  <a href="https://github.com/FelipeAguirreA" target="_blank">
   <img
     src="https://img.icons8.com/doodle/42/000000/github--v1.png"
     alt="GitHub"
     width="55"
   />
+  <a href="mailto:felipeaguirreee@gmail.com">
   <img
     src="https://img.icons8.com/doodle/42/000000/gmail-new.png"
     alt="Email"
     width="55"
   />
+  </a>
+</div>
 
   <img
     src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"
