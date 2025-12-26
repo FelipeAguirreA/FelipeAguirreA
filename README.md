@@ -130,25 +130,26 @@ Actualmente desarrollando aplicaciones, front-end, back-end y APIs como parte de
 <!-- ICONOS + ZORRO EN LA MISMA LÍNEA (INLINE) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-aguirre-aravena" target="_blank">
-  <img
-    src="https://img.icons8.com/doodle/42/000000/linkedin--v2.png"
-    alt="LinkedIn"
-    width="55"
-  />
-  <a href="https://github.com/FelipeAguirreA" target="_blank">
-  <img
-    src="https://img.icons8.com/doodle/42/000000/github--v1.png"
-    alt="GitHub"
-    width="55"
-  />
-  <a href="mailto:felipeaguirreee@gmail.com">
-  <img
-    src="https://img.icons8.com/doodle/42/000000/gmail-new.png"
-    alt="Email"
-    width="55"
-  />
+    <img
+      src="https://img.icons8.com/doodle/42/000000/linkedin--v2.png"
+      alt="LinkedIn"
+      width="55"
+    />
   </a>
-</div>
+  <a href="https://github.com/FelipeAguirreA" target="_blank">
+    <img
+      src="https://img.icons8.com/doodle/42/000000/github--v1.png"
+      alt="GitHub"
+      width="55"
+    />
+  </a>
+  <a href="mailto:felipeaguirreee@gmail.com">
+    <img
+      src="https://img.icons8.com/doodle/42/000000/gmail-new.png"
+      alt="Email"
+      width="55"
+    />
+  </a>
 
   <img
     src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"
@@ -161,3 +162,5 @@ Actualmente desarrollando aplicaciones, front-end, back-end y APIs como parte de
 <p align="center">
   <sub>¿Hablamos? Estoy disponible para práctica profesional en desarrollo de software.</sub>
 </p>
+
+</div>
